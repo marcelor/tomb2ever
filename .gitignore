@@ -1,0 +1,4 @@
+local_settings.py
+app/error.log
+credentials.txt
+app/notes
